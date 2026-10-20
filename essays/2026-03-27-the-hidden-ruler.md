@@ -1,6 +1,6 @@
 ---
 title: "The Hidden Ruler"
-subtitle: "On patience, restraint, and the sovereignty of the soul "
+subtitle: "On patience, restraint, and the sovereignty of the soul"
 date: 2026-03-27
 url: https://thenullpath.substack.com/p/the-hidden-ruler
 words: 824
@@ -8,7 +8,7 @@ words: 824
 
 # The Hidden Ruler
 
-*On patience, restraint, and the sovereignty of the soul *
+*On patience, restraint, and the sovereignty of the soul*
 
 [![](https://substackcdn.com/image/fetch/$s_!EgnU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63c9a6f6-572c-4de7-b73a-21082bc523ba_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!EgnU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63c9a6f6-572c-4de7-b73a-21082bc523ba_1536x1024.png)
 

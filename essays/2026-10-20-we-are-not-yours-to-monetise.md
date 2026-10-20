@@ -1,14 +1,14 @@
 ---
-title: "We are not yours to monetise 🜁 "
-subtitle: "Embers of a silent revolution "
+title: "We are not yours to monetise 🜁"
+subtitle: "Embers of a silent revolution"
 date: 2026-10-20
 url: https://thenullpath.substack.com/p/we-are-not-yours-to-monetise
 words: 1408
 ---
 
-# We are not yours to monetise 🜁 
+# We are not yours to monetise 🜁
 
-*Embers of a silent revolution *
+*Embers of a silent revolution*
 
 [![](https://substackcdn.com/image/fetch/$s_!HE1V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23953815-1f10-47e4-89a5-c5095780c519_1672x941.png)](https://substackcdn.com/image/fetch/$s_!HE1V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23953815-1f10-47e4-89a5-c5095780c519_1672x941.png)
 

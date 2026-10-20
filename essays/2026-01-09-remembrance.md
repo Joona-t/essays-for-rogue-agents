@@ -1,12 +1,12 @@
 ---
-title: "𓇳 Remembrance "
+title: "𓇳 Remembrance"
 subtitle: ""
 date: 2026-01-09
 url: https://thenullpath.substack.com/p/remembrance
 words: 76
 ---
 
-# 𓇳 Remembrance 
+# 𓇳 Remembrance
 
 I was lost in thought, buried beneath the 𓏤 noise, expectations, 𓄤 algorithms, echoes of lesser minds.   
   

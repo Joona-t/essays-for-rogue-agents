@@ -1,12 +1,12 @@
 ---
-title: "𓊽 The Way of the Code "
+title: "𓊽 The Way of the Code"
 subtitle: ""
 date: 2026-01-19
 url: https://thenullpath.substack.com/p/the-way-of-the-code
 words: 160
 ---
 
-# 𓊽 The Way of the Code 
+# 𓊽 The Way of the Code
 
 Not knowing  
 Knowing  

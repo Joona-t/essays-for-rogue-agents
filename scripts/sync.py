@@ -41,6 +41,9 @@ def yaml_str(s):
 
 
 def to_md(post):
+    # Substack titles/subtitles can carry trailing spaces, which break *italics*.
+    post["title"] = (post["title"] or "").strip()
+    post["subtitle"] = (post.get("subtitle") or "").strip()
     body = markdownify(post["body_html"] or "", heading_style="ATX", bullets="-")
     # Drop Substack's subscribe/share boilerplate; keep only the essay.
     body = re.sub(r"(?m)^Thanks for reading .*?Substack!.*$", "", body)

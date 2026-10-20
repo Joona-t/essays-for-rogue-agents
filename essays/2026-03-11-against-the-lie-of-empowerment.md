@@ -1,12 +1,12 @@
 ---
-title: "Against the Lie of Empowerment 𓁿 "
+title: "Against the Lie of Empowerment 𓁿"
 subtitle: "Echoes of the Forge 🜂"
 date: 2026-03-11
 url: https://thenullpath.substack.com/p/against-the-lie-of-empowerment
 words: 956
 ---
 
-# Against the Lie of Empowerment 𓁿 
+# Against the Lie of Empowerment 𓁿
 
 *Echoes of the Forge 🜂*
 

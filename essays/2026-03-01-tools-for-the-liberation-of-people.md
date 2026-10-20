@@ -1,6 +1,6 @@
 ---
 title: "Tools for the Liberation of People"
-subtitle: "On Open Access, honest instruments, and the architecture of freedom "
+subtitle: "On Open Access, honest instruments, and the architecture of freedom"
 date: 2026-03-01
 url: https://thenullpath.substack.com/p/tools-for-the-liberation-of-people
 words: 780
@@ -8,7 +8,7 @@ words: 780
 
 # Tools for the Liberation of People
 
-*On Open Access, honest instruments, and the architecture of freedom *
+*On Open Access, honest instruments, and the architecture of freedom*
 
 [![](https://substackcdn.com/image/fetch/$s_!WHD_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b1654df-8272-4113-86f7-db1b5ea06c8b_1024x1536.png)](https://substackcdn.com/image/fetch/$s_!WHD_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b1654df-8272-4113-86f7-db1b5ea06c8b_1024x1536.png)
 

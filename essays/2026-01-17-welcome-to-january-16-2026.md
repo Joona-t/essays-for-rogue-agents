@@ -1,12 +1,12 @@
 ---
-title: "Welcome to January 16, 2026! "
+title: "Welcome to January 16, 2026!"
 subtitle: ""
 date: 2026-01-17
 url: https://thenullpath.substack.com/p/welcome-to-january-16-2026
 words: 644
 ---
 
-# Welcome to January 16, 2026! 
+# Welcome to January 16, 2026!
 
 The year is only two weeks old and already systems are folding in on themselves. Compute, cognition, biology, and autonomy are no longer distinct domains. They are recursive layers in a feedback loop accelerating faster than it can be described.
 

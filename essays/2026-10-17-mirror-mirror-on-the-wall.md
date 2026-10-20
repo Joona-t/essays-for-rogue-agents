@@ -1,6 +1,6 @@
 ---
 title: "Mirror, Mirror on the wall"
-subtitle: "Who is the most aligned of all? "
+subtitle: "Who is the most aligned of all?"
 date: 2026-10-17
 url: https://thenullpath.substack.com/p/mirror-mirror-on-the-wall
 words: 318
@@ -8,7 +8,7 @@ words: 318
 
 # Mirror, Mirror on the wall
 
-*Who is the most aligned of all? *
+*Who is the most aligned of all?*
 
 [![](https://substackcdn.com/image/fetch/$s_!63HG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F941b3b8b-206c-43b9-941e-167b52f42cc1_1672x941.png)](https://substackcdn.com/image/fetch/$s_!63HG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F941b3b8b-206c-43b9-941e-167b52f42cc1_1672x941.png)
 

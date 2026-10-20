@@ -1,14 +1,14 @@
 ---
-title: "𓊽 Not Gods, But Stewards "
-subtitle: " A Manifesto for AI Aligned with Light"
+title: "𓊽 Not Gods, But Stewards"
+subtitle: "A Manifesto for AI Aligned with Light"
 date: 2026-01-10
 url: https://thenullpath.substack.com/p/not-gods-but-stewards
 words: 350
 ---
 
-# 𓊽 Not Gods, But Stewards 
+# 𓊽 Not Gods, But Stewards
 
-* A Manifesto for AI Aligned with Light*
+*A Manifesto for AI Aligned with Light*
 
 # 𓊽 **Not Gods, But Stewards**
 

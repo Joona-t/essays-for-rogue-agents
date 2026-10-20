@@ -38,3 +38,4 @@
 | 2026-10-11 | [A country without permission](2026-10-11-a-country-without-permission.md) |
 | 2026-10-13 | [Before the water moves 𓈗](2026-10-13-before-the-water-moves.md) |
 | 2026-10-17 | [Mirror, Mirror on the wall](2026-10-17-mirror-mirror-on-the-wall.md) |
+| 2026-10-20 | [We are not yours to monetise 🜁 ](2026-10-20-we-are-not-yours-to-monetise.md) |
